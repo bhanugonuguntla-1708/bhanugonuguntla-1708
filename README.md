@@ -40,7 +40,17 @@ A system that detects fraudulent credit card transactions using machine learning
 🔗 GitHub Repo:  
 https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection  
 
+
 ---
+### My-Project(Weather Dashboard)
+
+
+A Weather Dashboard is a full-stack web application that provides real-time weather information for different locations. The frontend is built using technologies like **React.js, HTML, CSS, and JavaScript** to display weather details in an interactive user interface. The backend is developed using **Node.js and Express.js**, which fetch weather data from external APIs such as **OpenWeatherMap** and processes user requests. Weather information, search history, and user preferences can be stored in a **MongoDB** database. The application allows users to search for cities, view current weather conditions, temperature, humidity, wind speed, and weather forecasts. This project demonstrates full-stack development concepts, including API integration, database management, client-server communication, and responsive web design.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenWeatherMap API, HTML, CSS, JavaScript.
+
+🔗GitHub Repo:
+
 
 ## 🏆 Certifications
 
