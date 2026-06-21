@@ -1,43 +1,47 @@
-<!-- ✨ ANIMATED HEADER -->
+<!-- 🌟 PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:ffffff&height=200&section=header&text=Bhanu%20Gonuguntla&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:ffffff&height=220&section=header&text=Bhanu%20Gonuguntla&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
+<!-- 🔥 TYPING HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Full+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-## 👤 About Me
+## 🚀 About Me
 
 - 📍 Hyderabad, India  
 - 🎓 B.Tech CSE @ Malla Reddy Engineering College (2027)  
 - 💼 Student | Aspiring Software Engineer  
-- 🎯 Goal: Internship → Full Stack Developer → Software Engineer  
+- 🎯 Focus: Internship → Full Stack Developer → Software Engineer  
 
-I’m a motivated and curious developer who enjoys building real-world projects, learning new technologies, and improving problem-solving skills. I like turning ideas into working applications and continuously growing as a developer.
+I am a passionate developer focused on building real-world applications and improving my problem-solving skills. I enjoy turning ideas into scalable web solutions and continuously learning modern technologies.
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,express,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 💳 Featured Project
 
-### 💳 Credit Card Fraud Detection (Machine Learning)
+### Credit Card Fraud Detection (Machine Learning)
 
 A machine learning system that detects fraudulent credit card transactions using classification algorithms like Logistic Regression, Decision Tree, and Random Forest.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Java, React.js, HTML, CSS  
+- 🧠 Focus: Fraud detection using ML models  
+- 📊 Data Processing: Pandas, NumPy  
+- 🤖 Model: Scikit-learn  
+- 🌐 Frontend: React.js, HTML, CSS  
+- ⚙️ Backend: Java (supporting logic layer)
 
-🔗 GitHub Repo:  
+🔗 GitHub Repository  
 https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection  
 
 ---
@@ -45,27 +49,24 @@ https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection
 ## 🏆 Certifications
 
 - Microsoft Azure AI Fundamentals  
-- INSPIRA’25 – IIT Hyderabad (Participation)  
+- INSPIRA’25 – IIT Hyderabad  
 - IGNITE 2K26 – National Level AI Hackathon  
 
 ---
 
 ## 📚 Currently Learning
 
-- Full Stack Development  
-- React.js Advanced Concepts  
-- Data Structures & Algorithms  
+- Advanced Full Stack Development  
+- React.js Deep Dive  
+- Data Structures & Algorithms (DSA)  
 
 ---
 
-## 📊 GitHub Analytics (STABLE VERSION)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanugonuguntla&show_icons=true&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanugonuguntla&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanugonuguntla&show_icons=true&hide_border=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanugonuguntla&layout=compact&hide_border=true&theme=default" height="170"/>
 </p>
 
 ---
@@ -74,18 +75,24 @@ https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection
 
 <p align="center">
   <a href="mailto:bhanugonuguntla99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bhanu-gonuguntla">
-    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/bhanugonuguntla">
-    <img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## ⭐ Closing
+
 <p align="center">
-  ⭐ Built with passion by Bhanu Gonuguntla ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:0A66C2&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>“Code. Build. Improve. Repeat.”</b>
 </p>
