@@ -58,14 +58,10 @@ https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection
 
 ---
 
-## 📊 GitHub Analytics (FIXED)
+## 📊 GitHub Analytics (STABLE VERSION)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhanugonuguntla&show_icons=true&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhanugonuguntla&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
@@ -93,9 +89,3 @@ https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection
 <p align="center">
   ⭐ Built with passion by Bhanu Gonuguntla ⭐
 </p>
-
-
-
-
-
-   
