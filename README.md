@@ -1,4 +1,3 @@
-
 <!-- ✨ ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:ffffff&height=200&section=header&text=Bhanu%20Gonuguntla&fontSize=35&fontColor=ffffff" />
@@ -25,20 +24,18 @@ I’m a motivated and curious developer who enjoys building real-world projects,
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 💳 Credit Card Fraud Detection (ML Project)
+### 💳 Credit Card Fraud Detection (Machine Learning)
 
 A machine learning system that detects fraudulent credit card transactions using classification algorithms like Logistic Regression, Decision Tree, and Random Forest.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Java, React, HTML, CSS  
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Java, React.js, HTML, CSS  
 
 🔗 GitHub Repo:  
 https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection  
@@ -47,32 +44,32 @@ https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection
 
 ## 🏆 Certifications
 
-🏅 Microsoft Azure AI Fundamentals  
-🎓 INSPIRA’25 – IIT Hyderabad (Participation)  
-🤖 IGNITE 2K26 – National AI Hackathon (Participation)
+- Microsoft Azure AI Fundamentals  
+- INSPIRA’25 – IIT Hyderabad (Participation)  
+- IGNITE 2K26 – National Level AI Hackathon  
 
 ---
 
 ## 📚 Currently Learning
 
-- Full Stack Web Development  
+- Full Stack Development  
 - React.js Advanced Concepts  
 - Data Structures & Algorithms  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanugonuguntla&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanugonuguntla&show_icons=true&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanugonuguntla&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bhanugonuguntla&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanugonuguntla&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanugonuguntla&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
@@ -93,11 +90,12 @@ https://github.com/bhanugonuguntla-1708/CreditCard_FraudDetection
 
 ---
 
-<!-- ✨ FOOTER ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:1E90FF&height=120&section=footer"/>
-</p>
-
 <p align="center">
   ⭐ Built with passion by Bhanu Gonuguntla ⭐
 </p>
+
+
+
+
+
+   
