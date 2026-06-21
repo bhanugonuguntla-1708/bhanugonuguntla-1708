@@ -49,7 +49,7 @@ A Weather Dashboard is a full-stack web application that provides real-time weat
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenWeatherMap API, HTML, CSS, JavaScript.
 
 🔗GitHub Repo:
-https://github.com/bhanugonuguntla-1708/My-Project
+https://github.com/bhanugonuguntla-1708/Weather_Dashboard
 
 ## 🏆 Certifications
 
